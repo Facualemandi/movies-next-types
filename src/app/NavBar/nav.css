@@ -1,0 +1,35 @@
+.nav_app {
+  max-width: 1350px;
+  margin: auto;
+  width: 100vw;
+  padding-top: 30px;
+}
+
+.nav_app .ul_nav_app {
+  display: flex;
+  justify-content: space-evenly;
+  list-style: none;
+  font-family: sans-serif;
+}
+
+.nav_app .ul_nav_app li {
+  border-radius: 10px;
+  color: #848484;
+  font-size: 18px;
+  padding: 7px;
+}
+.nav_app .ul_nav_app .Programas.de.TV {
+  color: #86eea9;
+  background-color: rgba(134, 238, 169, 0.2);
+  border: 1px solid #86eea945;
+}
+.nav_app .ul_nav_app .Peliculas {
+  color: #86eea9;
+  background-color: rgba(134, 238, 169, 0.2);
+  border: 1px solid #86eea945;
+}
+.nav_app .ul_nav_app .Personas {
+  color: #86eea9;
+  background-color: rgba(134, 238, 169, 0.2);
+  border: 1px solid #86eea945;
+}
